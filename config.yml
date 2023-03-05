@@ -1,0 +1,28 @@
+baseURL: 'https://lovromazgon.github.io'
+languageCode: 'en-us'
+title: 'Lovro Mažgon'
+theme: 'PaperMod'
+enableEmoji: true
+params:
+  # disableThemeToggle: true
+  profileMode:
+    enabled: true
+    subtitle: 'Software Engineer'
+    imageUrl: '/images/lovro.jpg'
+    imageTitle: 'profile picture'
+    imageWidth: 100
+    imageHeight: 100
+    buttons:
+      - name: Posts
+        url: 'https://medium.com/@lovro.mazgon'
+      - name: About
+        url: '/about'
+  socialIcons:
+    - name: github
+      url: 'https://github.com/lovromazgon'
+    - name: stackoverflow
+      url: 'https://stackoverflow.com/users/1212463/lmazgon'
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/lovromazgon/'
+    - name: medium
+      url: 'https://medium.com/@lovro.mazgon'
