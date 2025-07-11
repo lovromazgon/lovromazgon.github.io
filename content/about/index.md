@@ -2,28 +2,29 @@
 title: "About"
 ---
 
-Hello, I'm Lovro, a seasoned professional coming at you from the beautiful
-crossroads of Slovenia and Austria. 🌍
+I'm Lovro, a software engineer specializing in Go, distributed systems, and
+data streaming. My professional philosophy is simple: I build tools for
+developers that I would love to use myself. This user-first perspective allows
+me to anticipate needs, simplify debugging and create intuitive, powerful
+engineering experiences.
 
-My expertise lies in software engineering, and I am lucky enough to call it my
-passion as well as my work. I first dipped my toes into the world of engineering
-at the University of Maribor, where I got my master's degree in Informatics.
-Today it's almost 15 years since I started honing my coding skills. Throughout
-that time, I have become well-versed in various programming languages. However,
-my primary focus and preferred language for the past 8 years has been Go. Its
-simplicity, concurrency features, and robustness have made it my go-to tool for
-tackling complex software challenges.
+In my most recent role as the Tech Lead for Conduit, an open-source data
+streaming application, I led a four-person engineering team while owning the
+project's architecture and execution. I thrive in roles where I can be both a
+hands-on contributor and a mentor. I lead by example, writing code and
+explaining the "why" behind my decisions, but I also rely on my team's feedback
+to challenge and improve my own work. For me, lifting up the team is the best
+way to ensure we all succeed.
 
-Beyond the realm of coding, I have a profound passion for music. Whenever I get
-a chance, I seek inspiration in playing the piano. I also really enjoy cooking.
-Exploring different flavors, experimenting with ingredients, and making
-delicious dishes is something I love to do in my free time.
+I'm a big open-source enthusiast. I value the transparency of being able to see
+a tool's source code and the empowerment that comes from being able to fix a
+bug or implement a feature myself rather than waiting on a vendor.
 
-Completing my world is my loyal companion, Link, a fluffy brown border collie.
-We go on exciting hikes together, discovering the beauty of nature and
-strengthening our bond. Teaching Link different tricks and witnessing his growth
-has been an amazing experience of companionship.
+Away from the keyboard, I enjoy playing the piano, cooking, and hiking with my
+border collie, Link. These are the things that help me switch off and recharge,
+whether it's getting lost in a piece of music or exploring a new trail.
 
-I am passionate about my work and always aim for excellence in everything I do.
-If you have similar interests or are interested in collaborating professionally,
-I would be happy to connect!
+I'm currently exploring the potential of AI and LLMs to reduce overhead in
+development lifecycles. If you're passionate about building developer-first
+tools, believe in the power of open-source, or just want to connect, I'd be
+happy to chat.
