@@ -13,8 +13,8 @@ params:
     imageWidth: 100
     imageHeight: 100
     buttons:
-      - name: Posts
-        url: 'https://medium.com/@lovro.mazgon'
+      - name: CV
+        url: '/cv-lovro-mazgon.pdf'
       - name: About
         url: '/about'
   socialIcons:
